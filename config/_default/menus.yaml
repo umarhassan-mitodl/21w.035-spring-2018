@@ -1,0 +1,59 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: a14cdbaa-f44f-8d23-6745-b8f843f6ff82
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 3215a99c-a9c4-0204-8e24-3ec3a83d2348
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: dcb75517-ffd7-a7f5-7e16-014863f0db72
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: e62b9eeb-e621-c95b-38a6-f8e3249357b4
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: c3a0f599-f3a7-4c54-0525-ad26d0ca865c
+  name: The Science of Everyday Life
+  pageRef: /pages/assignments/the-science-of-everyday-life
+  parent: e62b9eeb-e621-c95b-38a6-f8e3249357b4
+  weight: 50
+- identifier: 907097c0-8302-0ee5-6352-dcf3a2129046
+  name: News Story
+  pageRef: /pages/assignments/news-story
+  parent: e62b9eeb-e621-c95b-38a6-f8e3249357b4
+  weight: 60
+- identifier: 604d023b-fd0c-30ae-5353-3ae40038d3af
+  name: Profile Article
+  pageRef: /pages/assignments/profile-article
+  parent: e62b9eeb-e621-c95b-38a6-f8e3249357b4
+  weight: 70
+- identifier: 6d7b6f32-13e4-c8cf-c485-796d172e9b0e
+  name: Investigative Essay
+  pageRef: /pages/assignments/investigative-essay
+  parent: e62b9eeb-e621-c95b-38a6-f8e3249357b4
+  weight: 80
+- identifier: 813ff894-c3fa-466e-d01a-8a8dedd51914
+  name: Book Talk
+  pageRef: /pages/assignments/book-talk/
+  parent: e62b9eeb-e621-c95b-38a6-f8e3249357b4
+  weight: 90
+- identifier: 48d0b7b7-a08c-0694-e417-690140ecc707
+  name: Oral Presentation Rubric
+  pageRef: /pages/assignments/book-talk/oral-presentation-rubric
+  parent: 813ff894-c3fa-466e-d01a-8a8dedd51914
+  weight: 100
+- identifier: d8584065-e2e0-413f-bad0-62ba0ec36965
+  name: Portfolio
+  pageRef: /pages/assignments/portfolio
+  parent: e62b9eeb-e621-c95b-38a6-f8e3249357b4
+  weight: 110
+- identifier: 0db94956-df48-17cd-16d9-d6fe5d0e6e78
+  name: Essay Critiques
+  pageRef: /pages/assignments/essay-critiques
+  parent: e62b9eeb-e621-c95b-38a6-f8e3249357b4
+  weight: 120

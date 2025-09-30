@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2018",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Technical Writing"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ]
+  ],
+  "legacy_uid": "e05c9743-03de-3541-e548-b03603e50318",
+  "instructors": {
+    "content": [
+      "b5033236-cf8b-3447-6db3-284875508280"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "517c8c21-130e-f47a-c2fd-51ed2142510f",
+    "website": "21w-035-science-writing-and-new-media-science-writing-for-the-public-spring-2018"
+  },
+  "course_title": "Science Writing and New Media: Science Writing for the Public",
+  "hide_download": true,
+  "course_description": "This class is an introduction to writing about science\u2014including nature, medicine and technology\u2014for general readers. In our reading and writing we explore the craft of making scientific concepts, and the work of scientists, accessible to the public through articles and essays.\n",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.035",
+  "course_image_thumbnail": {
+    "content": "e0963a60-6578-b54a-18c1-ba937abfc556",
+    "website": "21w-035-science-writing-and-new-media-science-writing-for-the-public-spring-2018"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "271dde5f-3354-4b4e-a493-0aefca554909",
+  "site_short_id": "21w.035-spring-2018",
+  "site_url_path": "courses/21w-035-science-writing-and-new-media-science-writing-for-the-public-spring-2018",
+  "title": "Course Metadata"
+}
