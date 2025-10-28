@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This contains the course description and grading scheme.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -24,7 +22,7 @@ Course Description
 
 This class is an introduction to writing about science—including nature, medicine, and technology—for general readers. In our reading and writing we explore the craft of making scientific concepts, and the work of scientists, accessible to the public through articles and essays. The chief work of the class is students’ writing; assignments include a brief essay on science in everyday life, an interview-based essay, and a longer (2,400–3,000-word) researched essay, all of which will be revised. In addition, there will be two brief graded assignments with optional revision. Students also give a talk introducing a book of their choice from a list provided. Revision and workshopping are both an important part of the class’s work. As part of our exploration of the craft of science writing, we will read essays and articles by writers such as Atul Gawande, Malcolm Gladwell, Katherine Schulz, and Elizabeth Kolbert.
 
-This class fulfills the [CI-HW requirement](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement). It is open to all students and is normally required for majors in science writing.
+This class fulfills the {{% resource_link "4ba79cd0-98b9-4871-b172-e58f8b9da76d" "CI-HW requirement" %}}. It is open to all students and is normally required for majors in science writing.
 
 Textbooks
 ---------

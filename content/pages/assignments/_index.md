@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This includes the summary of all assignments for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -72,9 +70,9 @@ Class #5: Attitudes Towards Writing; What Do We Mean by Revision? 
 
 ### Readings:
 
-*   Tafton, Anne. “[New way to stop the bleeding: Nanoscale biological coating developed at MIT could prevent battlefield deaths](http://web.mit.edu/newsoffice/2012/stop-bleeding-0110.html).” MIT News Office. January 10, 2012.
-*   Hardesty, Larry. “[Imaging with an ‘optical brush’](http://news.mit.edu/2016/imaging-optical-fibers-brush-0212).” MIT News Office. February 12, 2016.
-*   Chu, Jennifer. “[Microfluidics from LEGO bricks](http://news.mit.edu/2018/microfluidics-lego-bricks-0131).” MIT News Office. January 30, 2018.
+*   Tafton, Anne. “{{% resource_link "d62d8f88-e0e3-4e21-b64f-b8ccacee12b1" "New way to stop the bleeding: Nanoscale biological coating developed at MIT could prevent battlefield deaths" %}}.” MIT News Office. January 10, 2012.
+*   Hardesty, Larry. “{{% resource_link "1c129f60-98aa-462e-81ef-1e9e5150d461" "Imaging with an ‘optical brush’" %}}.” MIT News Office. February 12, 2016.
+*   Chu, Jennifer. “{{% resource_link "3796609e-3e76-41fc-af89-3e63b4488082" "Microfluidics from LEGO bricks" %}}.” MIT News Office. January 30, 2018.
 *   Hancock, Chapter 5, "The Nitty-Gritty" and "Refining Your Draft."
 
 As you read these stories, note what they have in common: what kinds of things do the writers do? Where does certain information, such as where a study is published, go? What do the introductions—or “leads,” as journalists call them—do? What is the take-away message—the biggest point—for each of these stories? Do the stories make it clear why this point matters? How is technical complexity handled? Do you notice images or analogies that the writers use to make the concepts more easily understood? We’ll spend most of class discussing news writing and these readings.  
@@ -88,9 +86,9 @@ Write a proposal for the {{% resource_link 604d023b-fd0c-30ae-5353-3ae40038d3af 
 
 ### Readings:
 
-*   The three student-written profiles in the [2013 _Angles_ online magazine](http://cmsw.mit.edu/angles/2013/) of exemplary writing.
-*   “[Spacesuits and Drones](http://cmsw.mit.edu/angles/2016/wp/spacesuits-and-drones/)” by Andrew DeNucci from the 2016 _Angles_. 
-*   “[Light up and Clean up](http://cmsw.mit.edu/angles/2017/light-up-and-clean-up/)” by Karina Hinojosa from the 2017 _Angles_.
+*   The three student-written profiles in the {{% resource_link "a3ad5d3b-9221-46bc-a163-0bbf678fab36" "2013 _Angles_ online magazine" %}} of exemplary writing.
+*   “{{% resource_link "ef7e7fa2-dc64-4348-99f2-ee40324fb192" "Spacesuits and Drones" %}}” by Andrew DeNucci from the 2016 _Angles_. 
+*   “{{% resource_link "e90465f9-8b20-4518-b596-377f689a1a67" "Light up and Clean up" %}}” by Karina Hinojosa from the 2017 _Angles_.
 *   Hancock, Chapter 3, "Research and the Interview."
 
 You should make notes about what you read—what do you notice about the way the writers put their articles together? Begin making a list of elements that make up a good profile-type article.
@@ -174,10 +172,10 @@ Write a short 1 paragraph proposal for your {{% resource_link 6d7b6f32-13e4-c8cf
 
 ### Readings:
 
-*   “[Fusion: Joining the Quest for renewable Energy’s Holy Grail](http://cmsw.mit.edu/angles/2016/wp/fusion-joining-the-quest-for-the-renewable-energys-holy-grail/)” by Milo Knowles, from the 2016 _Angles_.
-*   “[Fukushima and the Bogey-man](https://mitangles.wordpress.com/sugrue/)” by Rosie Sugrue.  (Note: Rosie is an especially accomplished writer.) 
-*   “[Anorexia: A Matter of Life and Breadth](http://cmsw.mit.edu/angles/2014/?page_id=707)” by Minyi Lee.
-*   “[Our Guts, Our Bodies, Ourselves](http://cmsw.mit.edu/angles/2014/?page_id=723)” by Dalia Walzer.
+*   “{{% resource_link "5e4bc1e8-cc71-467b-8c48-c32c1d244e34" "Fusion: Joining the Quest for renewable Energy’s Holy Grail" %}}” by Milo Knowles, from the 2016 _Angles_.
+*   “{{% resource_link "ebb88476-aa8f-4f84-9df5-0c8706a9cb2c" "Fukushima and the Bogey-man" %}}” by Rosie Sugrue.  (Note: Rosie is an especially accomplished writer.) 
+*   “{{% resource_link "fe7ec1e0-06dd-471d-8ffe-4f74c2ea8d99" "Anorexia: A Matter of Life and Breadth" %}}” by Minyi Lee.
+*   “{{% resource_link "60263eaa-0c3b-4e5c-b2fa-62d715ce8e08" "Our Guts, Our Bodies, Ourselves" %}}” by Dalia Walzer.
 
 Class #13: Library Session
 --------------------------

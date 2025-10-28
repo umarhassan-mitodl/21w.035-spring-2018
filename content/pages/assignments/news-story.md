@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This contains the instructions and guidelines for the news story assignment.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -15,8 +13,8 @@ uid: 907097c0-8302-0ee5-6352-dcf3a2129046
 
 A story written as if for a general audience, based on one of the two assigned readings. 
 
-1.  Anderson, Kevin and Glen Peters. “[The Trouble with Negative Emissions](http://science.sciencemag.org/content/354/6309/182).” _Science_ 354, no. 6309 (2016): 182–193.
-2.  Yuen, C.M., C.A. Rodrigues, et al. “[Map the Gap](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4525371/).” _Public Health Action_ 5, no. 1 (2015): 45–58.
+1.  Anderson, Kevin and Glen Peters. “{{% resource_link "67793592-24a9-4c00-81b3-9ccfa2d46eb5" "The Trouble with Negative Emissions" %}}.” _Science_ 354, no. 6309 (2016): 182–193.
+2.  Yuen, C.M., C.A. Rodrigues, et al. “{{% resource_link "a3106e0f-8685-497a-8e56-3d7d0e17042b" "Map the Gap" %}}.” _Public Health Action_ 5, no. 1 (2015): 45–58.
 
 Timeline
 --------
